@@ -1,3 +1,4 @@
+// our-domain.com/news
 const news = () => {
 	return (
 		<div>
